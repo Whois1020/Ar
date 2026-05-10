@@ -21,8 +21,8 @@
     "88077330554979",
     "154323057147953"
   ],
-  "botNumber": "51904937048",
-  "pairingNumber": "51904937048",
+  "botNumber": "",
+  "pairingNumber": "",
   "authFolder": "fsociety-botV1-session",
   "subbot": {
     "publicRequests": true,
